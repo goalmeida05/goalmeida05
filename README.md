@@ -7,7 +7,7 @@
 
 - 📫 Você pode me encontrar em **g.o.al1897@gmail.com**
 
-- 📑 Possuo um artigo na área de estatística e saúde que recebeu um título de alto fator de impacto publicado e está publicado na Biochimica et Biophysica Acta - General Subjects, que pode ser conferido clicando [aqui](https://www.sciencedirect.com/science/article/pii/S0304416518300333?via%3Dihub)
+- 📑 Possuo um artigo na área de estatística e saúde que recebeu a marcação de alto fator de impacto e está publicado na Biochimica et Biophysica Acta - General Subjects, que pode ser conferido clicando [aqui](https://www.sciencedirect.com/science/article/pii/S0304416518300333?via%3Dihub)
 
 </p>
 
