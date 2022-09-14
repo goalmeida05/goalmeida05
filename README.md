@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou o Gustavo Almeida</h1>
 <h3 align="center">Sou Físico pesquisador graduado pela Universidade Federal de Viçosa e me sinto cada vez mais atraído pela ciência e análise de dados!</h3>
 
-- 📚 No repositório PythonForDataAnalysis, você poderá encontrar resumos e revisões de como programar em Python e como trabalhar com os pacotes NumPy, Matplotlib, Pandas e Seaborn. Os códigos estão todos comentados e explicados e existem desafios que resolvi quando fiz os cursos da Alura.
+- 📚 Em PythonForDataAnalysis, você poderá encontrar resumos e revisões de como programar em Python e como trabalhar com os pacotes NumPy, Matplotlib, Pandas e Seaborn. Os códigos estão todos comentados e explicados e existem desafios que resolvi quando fiz os cursos da Alura.
 
-- ⚙️ No repositório Projetos, você encontrará algumas análises realizadas por mim. 
+- ⚙️ Em repositório Projetos, você encontrará algumas análises realizadas por mim. 
 
 - 📫 Você pode me encontrar em **g.o.al1897@gmail.com**
 
