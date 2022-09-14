@@ -1,9 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou o Gustavo Almeida</h1>
-<h3 align="center">Sou Físico graduado pela Universidade Federal de Viçosa e me sinto cada vez mais atraído pela ciência e análise de dados.</h3>
+<h3 align="center">Sou Físico pesquisador graduado pela Universidade Federal de Viçosa e me sinto cada vez mais atraído pela ciência e análise de dados!</h3>
 
-- 🌱 Estou aprendendo **Python, Power BI e Machine Learning**
+- 📚 No repositório PythonForDataAnalysis, você poderá encontrar resumos e revisões de como programar em Python e como trabalhar com os pacotes NumPy, Matplotlib, Pandas e Seaborn. Os códigos estão todos comentados e explicados e existem desafios que resolvi quando fiz os cursos da Alura.
+
+- ⚙️ No repositório Projetos, você encontrará algumas análises realizadas por mim. 
 
 - 📫 Você pode me encontrar em **g.o.al1897@gmail.com**
+
+- 📑 Possuo um artigo na área de estatística e saúde que recebeu um título de alto fator de impacto publicado e está publicado na Biochimica et Biophysica Acta - General Subjects, que pode ser conferido clicando [aqui](https://www.sciencedirect.com/science/article/pii/S0304416518300333?via%3Dihub)
 
 </p>
 
