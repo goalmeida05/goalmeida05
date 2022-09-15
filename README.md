@@ -5,6 +5,8 @@
 
 - ⚙️ Em Challenges, você encontrará algumas análises realizadas e comentadas por mim. 
 
+- 🌱 Em ToStudy, você encontrará problemas e suas soluções feitas e comentadas, são problemas de complexidade variada que irá te ajudar a estudar vários conceitos de Python.
+
 - 📫 Você pode me encontrar em **g.o.al1897@gmail.com**
 
 - 📑 Possuo um artigo na área de estatística e saúde que recebeu a marcação de alto fator de impacto e está publicado na Biochimica et Biophysica Acta - General Subjects, que pode ser conferido clicando [aqui](https://www.sciencedirect.com/science/article/pii/S0304416518300333?via%3Dihub)
