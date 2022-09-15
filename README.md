@@ -3,7 +3,7 @@
 
 - 📚 Em PythonForDataAnalysis, você poderá encontrar resumos e revisões de como programar em Python e como trabalhar com os pacotes NumPy, Matplotlib, Pandas e Seaborn. Os códigos estão todos comentados e explicados e existem desafios que resolvi quando fiz os cursos da Alura.
 
-- ⚙️ Em repositório Projetos, você encontrará algumas análises realizadas por mim. 
+- ⚙️ Em Challenges, você encontrará algumas análises realizadas e comentadas por mim. 
 
 - 📫 Você pode me encontrar em **g.o.al1897@gmail.com**
 
