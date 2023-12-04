@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Gustavo Almeida</h1>
-<h3 align="center">Sou graduado em Física e Mestrando em Ciência da Computação pela Universidade Federal de Viçosa </h3>
+<h3 align="center">Sou Graduado em Física e Mestrando em Ciência da Computação pela Universidade Federal de Viçosa </h3>
 
 - 📚 Em PythonForDataAnalysis, você poderá encontrar resumos e revisões de como programar em Python e como trabalhar com os pacotes NumPy, Matplotlib, Pandas e Seaborn. Os códigos estão todos comentados e explicados e existem desafios que resolvidos.
 
